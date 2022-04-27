@@ -164,5 +164,7 @@ In the event that offboarding is recommended, an active offboarding process will
 ## Levels of Enforcement
 ![Enforcement](static-images/communitymoderation/enforcement.png)
 
+## Incident Flow Chart
+![Incident](static-images/communitymoderation/incident.png)
 
 
