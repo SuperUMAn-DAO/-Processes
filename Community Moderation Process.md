@@ -162,6 +162,7 @@ In the event that offboarding is recommended, an active offboarding process will
 
  
 ## Levels of Enforcement
+![Enforcement](static-images/Enforcement jpg)
 
 
 
