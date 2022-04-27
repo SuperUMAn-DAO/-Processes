@@ -162,7 +162,7 @@ In the event that offboarding is recommended, an active offboarding process will
 
  
 ## Levels of Enforcement
-![Enforcement](/communitymoderation/enforcement.png)
+![Enforcement](static-images/communitymoderation/enforcement.png)
 
 
 
