@@ -1,4 +1,7 @@
 ## Governance Process
+| Stage | Tool | Days Required | Qourum | Requirements to Pass |
+|:-------| :-----------| :-----------| :-----------| :-----------|
+|Optional Tempcheck| Discord Thread | NA | NA | NA |
 ## Details of the SuperUMAn DAO Governance Mechanism
 The governance mechanism is comprised of a four step process, involving [Discord](https://discord.gg/D9DxH6KtTR), [Discourse](https://discourse.superumans.xyz/) and [Snapshot](https://snapshot.org/#/superumans.eth). These will be linked together with Discord providing access to Discourse governance forums to identify the membership tiers which will be reflected in Discord roles in order that the members meeting the quorum requirement can be identified. The minimum amount of time it would take for a proposal to be passed is 8 days.
 ## Stage 1 - Optional Tempcheck
